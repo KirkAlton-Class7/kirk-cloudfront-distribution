@@ -27,7 +27,7 @@ Deploy a static website using a private S3 buckent as the origin, with **CloudFr
 6. Create the bucket
 
 > [!IMPORTANT]  
-> The S3 bucket must remain private. CloudFront will handle public access.
+> Keep the S3 bucket private. CloudFront will handle public access.
 
 ---
 
