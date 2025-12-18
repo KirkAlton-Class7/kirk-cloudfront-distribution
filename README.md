@@ -1,8 +1,8 @@
 # S3 Static Website Hosting with CloudFront (ClickOps)
 
-## Purpose
+## Goal
 
-This runbook documents the steps to deploy a static website using **Amazon S3** as the origin and **CloudFront** as the CDN, configured through the AWS Console (ClickOps). The S3 bucket remains private, and CloudFront handles public access and HTTPS.
+Deploy a static website using a private S3 buckent as the origin, with **CloudFront** as the CDN.
 
 ---
 
